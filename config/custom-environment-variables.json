@@ -1,0 +1,5 @@
+{
+  "name": "Todo API",
+  "JWTSecret": "todo_secret",
+  "DB": "mongoDB"
+}

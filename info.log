@@ -1,0 +1,332 @@
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database Error: Username containing an unescaped at-sign","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database Error: Password contains an illegal unescaped character","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database Error: Username containing an unescaped at-sign","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error","message":"data and hash arguments required"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"generatedMessage":false,"name":"AssertionError [ERR_ASSERTION]","code":"ERR_ASSERTION","expected":true,"operator":"==","level":"error","message":"you must pass Joi as an argument"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Joi.ObjectId.required is not a function","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"user is not defined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"todo is not defined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"findOne is not defined","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"Cannot read property 'id' of null","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 5000","level":"info"}

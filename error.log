@@ -1,0 +1,32 @@
+{"level":"error"}
+{"level":"error"}
+{"message":"Could not connect to to database Error: Username containing an unescaped at-sign","level":"error"}
+{"message":"Could not connect to to database Error: Password contains an illegal unescaped character","level":"error"}
+{"message":"Could not connect to to database Error: Username containing an unescaped at-sign","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"level":"error","message":"data and hash arguments required"}
+{"generatedMessage":false,"name":"AssertionError [ERR_ASSERTION]","code":"ERR_ASSERTION","expected":true,"operator":"==","level":"error","message":"you must pass Joi as an argument"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"level":"error","message":"Converting circular structure to JSON"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Converting circular structure to JSON","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"Joi.ObjectId.required is not a function","level":"error"}
+{"message":"user is not defined","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: read ECONNRESET","level":"error"}
+{"message":"Cannot read property '0' of undefined","level":"error"}
+{"message":"todo is not defined","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [ds245132.mlab.com:45132] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND ds245132.mlab.com ds245132.mlab.com:45132]","level":"error"}
+{"message":"findOne is not defined","level":"error"}
+{"message":"Cannot read property 'id' of null","level":"error"}
