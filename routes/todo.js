@@ -22,7 +22,9 @@ router.get("/:id", authenticate, async (req, res) => {
   const { error } = validateId({ id: req.params.id });
   if (error) return res.status(400).json({ error: error.details[0].message });
 
-  let todo = await Todo.findById(req.params.id);
+  let todo = await Todo.findById(req.params.id)
+    .populate("userId", "name")
+    .exec();
 
   if (!todo) return res.status(404).json({ error: "todo list not found" });
 

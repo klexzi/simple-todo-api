@@ -1,9 +1,10 @@
 const express = require("express");
 const router = express.Router();
+const authenticate = require("../middlewares/authenticate");
 const { User, validateChangePassword } = require("../models/User");
 const bcrypt = require("bcrypt");
 
-router.post("/", async (req, res) => {
+router.post("/", authenticate, async (req, res) => {
   const { error } = validateChangePassword(req.body);
   if (error) return res.status(400).json({ error: error.details[0].message });
 
