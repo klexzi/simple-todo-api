@@ -78,6 +78,7 @@ paths:
           description: Internal Server Error
     post:
       summary: Endpoint to add todo to the database
+      description: add a valid user object id with the body, a valid id is "5b927205e587171240b2abb5"
       consumes:
         - application/json
       produces:
@@ -133,7 +134,7 @@ paths:
           description: returns the deleted todo object
         404:
           description: "404 not found"
-  "/change-passwprd":
+  "/change-password":
     parameters:
       - name: authorization
         in: header

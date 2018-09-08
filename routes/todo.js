@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const _ = require("lodash");
+const { User } = require("../models/User");
 const {
   Todo,
   validate,
@@ -34,6 +35,10 @@ router.get("/:id", authenticate, async (req, res) => {
 router.post("/", authenticate, async (req, res) => {
   const { error } = validate(req.body);
   if (error) return res.status(400).json({ error: error.details[0].message });
+
+  let user = User.findOne({ _id: req.body.userId });
+  if (!user)
+    return res.status(400).json({ error: "No user found with the given id" });
 
   let todo = new Todo(_.pick(req.body, ["userId", "description"]));
   todo.save();
