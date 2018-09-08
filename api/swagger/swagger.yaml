@@ -1,0 +1,188 @@
+swagger: "2.0"
+info:
+  version: 1.0.0
+  title: A Simple Todo API
+  description: A simple todo API in node js
+  contact:
+    name: Nwosu Kelechi
+    url: http://www.swagger.io/support
+    email: kelechinwosu@ymail.com
+  license:
+    name: MIT
+    url: http://opensource.org/licenses/MIT
+host: '--'
+consumes:
+  - application/json
+  - application/x-www-form-urlencoded
+produces: 
+  - application/json
+paths:
+  "/signup":
+    post:
+      summary: Adds up a user
+      description: adds up a user to the database
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: user
+          in: body
+          required: true
+          description: user details
+          schema:
+            $ref: '#/definitions/User'
+      responses:
+        200:
+          description: returns user auth token
+        400:
+          description: bad input
+        
+    
+  "/login":
+    post:
+      summary: Endpoint to implement login
+      consumes: 
+        - application/json
+      produces:
+        - application/json
+      parameters: 
+        - name: login
+          in: body
+          required: true
+          description: login details of the user
+          schema:
+            $ref: '#/definitions/Login'
+      responses:
+        200:
+          description: Token sent
+        400:
+          description: Bad Input
+          
+  "/todo":
+    get:
+      summary: Endpoint to produce all todo list
+      produces:
+        - application/json
+      responses:
+        200:
+          description: all todo sent
+        500:
+          description: Internal Server Error
+    post:
+      summary: Endpoint to add todo to the database
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: todo
+          in: body
+          required: true
+          description: a Valid mongoose id of the user to attach user to todo list
+          schema:
+            $ref: '#/definitions/Todo'
+      responses:
+        200: 
+          description: returned new post object
+        400:
+          description: Bad Request
+  "/todo/{id}":
+    parameters:
+      - name: id
+        in: path
+        type: string
+        required: true
+        description: mongoose object id of the todo item
+    put:
+      summary: Endpoint to edit user
+      produces:
+        - application/json
+      consumes:
+        - application/json
+        - application/x-www-form-urlencoded
+      parameters:
+        - name: todo
+          in: body
+          required: true
+          description: the todo object
+          schema:
+            $ref: '#/definitions/Todo'
+      responses:
+        200:
+          description: returns the updated item
+        400:
+          description: Bad Input
+        
+    delete:
+      summary: Delete the Todo Item
+      responses:
+        200:
+          description: returns the deleted todo object
+        404:
+          description: '404 not found'
+  "/change-passwprd":
+    post:
+      summary: EndPoint that changes the password of a user if the old password matches
+      consumes:
+        - application/json
+      produces:
+        - application/json
+      parameters:
+        - name: changePassword
+          in: body
+          required: true
+          description: email of the user
+          schema:
+            $ref: '#/definitions/ChangePassword'
+      responses:
+        200:
+          description: returns the user object
+        400:
+          description: Bad input
+        
+    
+        
+      
+definitions:
+  User: 
+    type: object
+    properties:
+      name:
+        type: string
+      email:
+        type: string
+      password:
+        type: string
+  Login:
+    type: object
+    properties:
+      email:
+        type: string
+      password:
+        type: string
+  Todo:
+    type: object
+    properties:
+      userId: 
+        type: string
+      description:
+        type: string
+        
+  ChangePassword:
+    type: object
+    properties:
+      email:
+        type: string
+      oldPassword:
+        type: string
+      newPassword:
+        type: string
+      
+        
+        
+        
+      
+      
+    
+
