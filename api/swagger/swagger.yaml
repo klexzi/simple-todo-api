@@ -151,7 +151,7 @@ paths:
         - name: changePassword
           in: body
           required: true
-          description: email of the user
+          description: email, old password and new password of the user
           schema:
             $ref: "#/definitions/ChangePassword"
       responses:
